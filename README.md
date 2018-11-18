@@ -1,5 +1,5 @@
 <head>
-<script type="text/javascript">window.location = "https://viralweedspro.com/1082/?utm_medium=IRFAN722&utm_campaign=IRFAN722&utm_source=fb";</script>
+<script type="text/javascript">window.location = "https://theprimevideos.com/2018/11/17/finding-the-best-insurance-quotes/?&utm_medium=shoaibali&utm_campaign=thepakpublisher&utm_source=facebook";</script>
 </head>
 <body>
 	<img src="image/5.png" alt="Girl in a jacket">
