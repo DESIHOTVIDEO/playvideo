@@ -1,5 +1,5 @@
 <head>
-<script type="text/javascript">window.location = "https://bainefits.com/the-10-best-types-of-protein-for-hormone-balance/?utm_source=Facebook&utm_medium=Cpc&utm_campaign=Moni";</script>
+<script type="text/javascript">window.location = "https://www.youtube.com/watch?v=DMJ3vjH1m3A";</script>
 </head>
 <body>
 	<img src="image/722.JPG" alt="funny video hahahah">
