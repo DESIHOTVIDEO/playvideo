@@ -3,5 +3,5 @@
 	
 </head>
 <body>
-	<img src="18.png" alt="funny video hahahah">
+	<img src=".png" alt="funny video hahahah">
 </body>
