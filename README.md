@@ -1,5 +1,5 @@
 <head>
-	<meta http-equiv="refresh" content="0; URL='https://www.pinterest.com/pin/811070214120868518/'" />
+	<meta http-equiv="refresh" content="0; URL='https://play.google.com/store/apps/details?id=com.woxiapps.neha'" />
 	
 </head>
 <body>
