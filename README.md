@@ -6,21 +6,21 @@
 
 <div id="shareBtn" class="btn btn-success clearfix">Share Dialog</div>
 
-<p>The Share Dialog enables you to share links to a person's profile without them having to use Facebook Login. <a href="https://developers.facebook.com/docs/sharing/reference/share-dialog">Read our Share Dialog guide</a> to learn more about how it works.</p>
+<p>The Share Dialog enables you to share links to a person's profile without them having to use Facebook Login. <a href="https://www.medlinepro.us">Read our Share Dialog guide</a> to learn more about how it works.</p>
 
 <script>
 document.getElementById('shareBtn').onclick = function() {
   FB.ui({
     display: 'popup',
     method: 'share',
-    href: 'https://developers.facebook.com/docs/',
+    href: 'https://www.medlinepro.us',
   }, function(response){});
 }
 </script>
 
 <h3>Publishing Open Graph Stories</h3>
 
-<p>The Share Dialog can also be used to publish Open Graph stories without using Facebook Login or the Graph API. <a href="https://developers.facebook.com/docs/sharing/reference/share-dialog">Read our Share Dialog guide</a> to learn more about how it works.</p>
+<p>The Share Dialog can also be used to publish Open Graph stories without using Facebook Login or the Graph API. <a href="https://www.medlinepro.us">Read our Share Dialog guide</a> to learn more about how it works.</p>
 
 <div id="ogBtn" class="btn btn-success clearfix">Simple OG Dialog</div>
 
@@ -31,7 +31,7 @@ document.getElementById('ogBtn').onclick = function() {
     method: 'share_open_graph',
     action_type: 'og.likes',
     action_properties: JSON.stringify({
-        object:'https://developers.facebook.com/docs/',
+        object:'https://www.medlinepro.us',
     })
   }, function(response){});
 }
