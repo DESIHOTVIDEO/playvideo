@@ -1,2 +1,2 @@
-<img src="safe_image (48).jpg" alt="Girl in a jacket" width="500" height="600">
-<meta http-equiv="Refresh" content="0; url=https://maaaazaryemaaaza.wordpress.com/2020/01/06/mmmaza/" />
+<script async src="https://cse.google.com/cse.js?cx=000325119406060789850:palu8v4ecz0"></script>
+<div class="gcse-search"></div>
