@@ -1,9 +1,11 @@
+!-- HTML meta refresh URL redirection -->
 <html>
 <head>
-<title>Moved</title>
+   <meta http-equiv="refresh"
+   content="0; url=https://mooonnni.github.io/wows//folksupport.com">
 </head>
 <body>
-<h1>Moved</h1>
-<p>This page has moved to <a href="https://mooonnni.github.io/wows/">https://folksupport.com/</a>.</p>
+   <p>The page has moved to:
+   <a href="https://mooonnni.github.io/wows//folksupport.com.html">this page</a></p>
 </body>
 </html>
